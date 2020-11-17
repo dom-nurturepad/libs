@@ -1,0 +1,15 @@
+{
+    "name": "nurturepad/nurturelibs",
+    "description": "Nurturepad php libs",
+    "type": "library",
+    "require": {
+        "aws/aws-sdk-php": "^3.162",
+        "monolog/monolog": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Dom",
+            "email": "dom@nurturepad.it"
+        }
+    ]
+}
